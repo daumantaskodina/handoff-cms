@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.local
+*.tsbuildinfo
+
+# Internal docs (kept locally, not in repo)
+docs/vibe-cms-business-plan*.md
+docs/technical-architecture.md
+docs/ux-flows.md
+docs/implementation-roadmap.md

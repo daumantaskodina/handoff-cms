@@ -1,0 +1,16 @@
+{
+  "name": "handoff-cli",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "handoff": "./init.mjs"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.26.0",
+    "@babel/traverse": "^7.26.0",
+    "@babel/generator": "^7.26.0",
+    "@babel/types": "^7.26.0",
+    "glob": "^11.0.0"
+  }
+}
