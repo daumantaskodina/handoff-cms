@@ -4,8 +4,9 @@ node_modules/
 .env.local
 *.tsbuildinfo
 
-# Internal docs (kept locally, not in repo)
+# Internal docs — DO NOT PUSH (see docs/PRIVATE-DO-NOT-PUSH.md)
 docs/vibe-cms-business-plan*.md
 docs/technical-architecture.md
 docs/ux-flows.md
 docs/implementation-roadmap.md
+docs/PRIVATE-DO-NOT-PUSH.md
